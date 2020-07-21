@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 I’m currently learning many things, Software Development, Big Data, manegement of projects
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
