@@ -1,10 +1,11 @@
 <h1 align="center">Hi there!👋 Welcome</h1>
 <h3 align="center">I'm Felipe Jonas</h3>
 
-<p align="center">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)</p>
-<p align="center">[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipenjonas@gmail.com)</p>
+I’m currently learning many things, Software Development, Big Data, manegement of projects</p>
+<br>
+<p align="center"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipenjonas@gmail.com)
 
-<p align="center">I’m currently learning many things, Software Development, Big Data, manegement of projects</p>
 <!--
 **felipenjonas/felipenjonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
