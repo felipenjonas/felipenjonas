@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 Welcome</h1>
 <h3 align="center">I'm Felipe Jonas</h3>
 
-I’m currently learning many things, Software Development, Big Data, manegement of projects</p>
+<p align="center">I’m currently learning many things, Software Development, Big Data, manegement of projects</p>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipenjonas@gmail.com)
