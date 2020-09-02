@@ -3,7 +3,7 @@
 
 I’m currently learning many things, Software Development, Big Data, manegement of projects</p>
 <br>
-<p align="center"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipenjonas@gmail.com)
 
 <!--
