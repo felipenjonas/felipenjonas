@@ -5,32 +5,6 @@
   
 </h2>
 
-
-
-<h3 align="center">🎓 I’m currently learning about Big Data in Agribusiness</h3>
-
-  <!--
-  | Skills | Progress to satisfaction |
-  |---------|---------|
-  |Python|![70%](https://progress-bar.dev/70)|
-  |Node|![70%](https://progress-bar.dev/70)|
-  |ReactJS\Native|![60%](https://progress-bar.dev/60)|
-  -------------------------------------------------------->
-
-<h3 align="start">interest in:</h3>
-
-🔍 Scrum 
-🔍 UI/UX 
-🔍 Cybersecurity 
-🔍 Software Engineering 
-🔍 Data Science 
-🔍 Software development 
-
-
-
-
-
-
 <!--
 **felipenjonas/felipenjonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
