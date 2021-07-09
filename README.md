@@ -5,23 +5,17 @@
   
 </h2>
 
-![Felipe Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenjonas&layout=compact)
-<!--
-**felipenjonas/felipenjonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  ![Felipe Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlight's
+  
+<a href="https://github.com/felipenjonas/diceRoller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipenjonas&repo=diceRoller" />
+</a>
+
+</div>
 
 
 
