@@ -4,8 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
   
 </h2>
-https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=felipenjonas&layout=compact
+
+![Felipe Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenjonas&layout=compact)
 <!--
 **felipenjonas/felipenjonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
