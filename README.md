@@ -9,12 +9,13 @@
 
   ![Felipe Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=dark)
 
+<!--
 ## Highlight's
-  
+
 <a href="https://github.com/felipenjonas/diceRoller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipenjonas&repo=diceRoller" />
 </a>
-
+ -->
 </div>
 
 
