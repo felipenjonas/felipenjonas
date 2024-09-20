@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 Welcome</h1>
 <h2 align="center">I'm Felipe Jonas 🧑🏻‍💻
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipejonas/)](https://www.linkedin.com/in/felipejonas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipenjonas/)](https://www.linkedin.com/in/felipenjonas/)
 </h2>
 
 <div>
