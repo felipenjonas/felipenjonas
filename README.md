@@ -18,25 +18,13 @@
 - Software Engineer from São Paulo, Brazil.
 - Working with SAP, industrial automation and data solutions.
 - Passionate about backend, data and scalable systems.
-- Currently pursuing an MBA in Software Engineering and improving my English.
+- Currently pursuing an MBA in Software Engineering at UTFPR.
 
 ---
 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img 
-    loading="lazy"
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=felipenjonas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"
-  />
-  <img 
-    loading="lazy"
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenjonas&layout=compact&langs_count=8&theme=ocean_dark"
-  />
-</p>
-
 <p align="center">
   <img 
     loading="lazy"
@@ -46,16 +34,6 @@
 
 ---
 
-### 🚀 Highlighted Repositories
-
-<p align="left">
-  <a href="https://github.com/andrew8gmf/coffee-detection">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=andrew8gmf&repo=coffee-detection&theme=ocean_dark" 
-    />
-  </a>
-</p>
 
 <!-- Exemplo: adicione seus próprios repos de destaque -->
 <!--
@@ -77,4 +55,35 @@
   <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img loading="lazy" height="50em" s
+  
+  <img loading="lazy" height="50em" src="https://go.dev/images/favicon-gopher.png" />
+  <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img loading="lazy" height="50em" src="https://seeklogo.com/images/S/SAP-logo-C3BDE759DB-seeklogo.com.png" />
+</div>
+
+---
+
+### 📚 Currently learning
+
+- Golang
+
+---
+
+### ✨ Dynamic section (idea)
+
+<!-- 
+Use essa seção junto com GitHub Actions para atualizar automaticamente
+últimos commits, posts de blog ou atividades recentes.
+Veja: https://dagleaves.com/2023/04/30/dynamic-github-profile [web:9]
+Marcadores de exemplo (substitua via script):
+
+<!-- activity start -->
+- ⏳ Em breve: atividades geradas automaticamente aqui.
+<!-- activity end -->
+-->
+
+---
+
+### 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/felipenjonas](https://www.linkedin.com/in/felipenjonas/)
